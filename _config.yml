@@ -2,10 +2,8 @@
 title: Personal Website
 subtitle: by FAR
 email: fathimah21001@mail.unpad.ac.id
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Hi, I'm currently studying Digital Business and captivated to learn and explore new skills. I'm very tolerant with diversity around me and I could analyze people from so many prespective. But one thing I know for sure about my self is that, I'm very content about what I want. And how do I achieve that. In the main time, I did accomplish few experience, from oversaw a comittee and worked as an intern. I also could work in pressure but still maintain a balance life. I easily adapt with people, so working with others won't be such a big deal for me.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
 street_address: C8 13 Wijayakusuma
 city: Bogor
 state: West Java
